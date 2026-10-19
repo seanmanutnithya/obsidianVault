@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"title\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -216,10 +216,12 @@
   },
   "active": "06dbacda29dd060d",
   "lastOpenFiles": [
-    "Research Methodology/chapter 1.md",
-    "System analyze and design/chapter 1.md",
-    "System analyze and design",
     "README.md",
+    "Untitled.md",
+    "System analyze and design/chapter 1.md",
+    "Untitled",
+    "Research Methodology/chapter 1.md",
+    "System analyze and design",
     "Research Methodology"
   ]
 }

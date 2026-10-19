@@ -1,7 +1,13 @@
 ---
 title: Data Models
-aliases: [Data Model, Database Design]
-tags: [database, data-model, dbms, lecture]
+aliases:
+  - Data Model
+  - Database Design
+tags:
+  - database
+  - data-model
+  - dbms
+  - lecture
 created: 2026-10-19
 source: class slides
 ---
@@ -20,6 +26,7 @@ source: class slides
 - [[#Types of data models]]
 - [[#Choosing a data model]]
 - [[#Uses and importance]]
+- [[Data base]]
 
 ---
 
@@ -38,14 +45,14 @@ source: class slides
 
 ## Key terms
 
-| Term | Meaning | Example |
-|---|---|---|
-| **Data model** | Describes and standardizes how data elements relate to each other | |
-| **Entity** | A real-world object or concept | Customer |
-| **Attribute** | A property of an entity | Name, phone number |
-| **Relationship** | A connection between entities | A customer places an order |
-| **Constraint** | A rule that defines valid data | A unique customer ID |
-| **Schema** | The structure of a database: tables, columns, keys | |
+| Term             | Meaning                                                           | Example                    |
+| ---------------- | ----------------------------------------------------------------- | -------------------------- |
+| **Data model**   | Describes and standardizes how data elements relate to each other |                            |
+| **Entity**       | A real-world object or concept                                    | Customer                   |
+| **Attribute**    | A property of an entity                                           | Name, phone number         |
+| **Relationship** | A connection between entities                                     | A customer places an order |
+| **Constraint**   | A rule that defines valid data                                    | A unique customer ID       |
+| **Schema**       | The structure of a database: tables, columns, keys                |                            |
 
 ## Building blocks
 
@@ -56,13 +63,13 @@ source: class slides
 
 ## Three levels of data models
 
-| Level | Abstraction | Shows | Used by | Output |
-|---|---|---|---|---|
-| **1. Conceptual** | High | Entities, relationships, constraints | Business stakeholders, analysts | ER diagram |
-| **2. Logical** | Medium | Tables, columns, primary keys, foreign keys | Analysts, database designers | Relational schema |
-| **3. Physical** | Low | DBMS, data types, indexes, storage | DBAs, developers | SQL schema and technical specs |
+| Level             | Abstraction | Shows                                       | Used by                         | Output                         |
+| ----------------- | ----------- | ------------------------------------------- | ------------------------------- | ------------------------------ |
+| **1. Conceptual** | High        | Entities, relationships, constraints        | Business stakeholders, analysts | ER diagram                     |
+| **2. Logical**    | Medium      | Tables, columns, primary keys, foreign keys | Analysts, database designers    | Relational schema              |
+| **3. Physical**   | Low         | DBMS, data types, indexes, storage          | DBAs, developers                | SQL schema and technical specs |
 
-### 1. Conceptual model
+### 1. Conceptual 
 - Gives a global view of the data. It identifies entities, relationships, and constraints without implementation details.
 - Example: an ER diagram with Customer and Order.
 - *One customer makes many orders. An order includes many products, and a product can appear in many orders.* Key attributes are underlined in the ER diagram.
