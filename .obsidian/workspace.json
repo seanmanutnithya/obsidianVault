@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "50c2b541b18edc57",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +174,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,8 +211,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8badb28f4f8a4af",
+  "active": "50c2b541b18edc57",
   "lastOpenFiles": [
+    "Research Methodology/chapter 1.md",
+    "README.md",
     "Research Methodology"
   ]
 }
