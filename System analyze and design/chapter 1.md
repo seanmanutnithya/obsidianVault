@@ -133,3 +133,15 @@ ON Customer (Surname);
 | **a. Conceptual design**         | Capture major entities, relationships, and attributes                                 | Capturing all data and relationships; data integrity | Functional specs; general understanding of the problem | ER diagram        |
 | **b. Logical design**            | Turn entities, attributes, and relationships into a high-level database specification | Providing a location for all data; data integrity    | ER diagram                                             | Relational schema |
 | **b2. Improving logical design** | Improve the high-level specification                                                  | Minimizing redundancy and ambiguity                  | Relational schema                                      |                   |
++ 4 types of attributes:
+	 - unique key attribute : using unique entity
+	 - calculate able attribute : using dash entity
+	 - normal attribute : using normal entity
+	 - more then one attributes : phone number, using two layer entity
+
++ Relationship : using diamond shape to make relation between entities
++ 3 types of cardinality : 
+	 - one to one : 1 - 1
+	 - one to many : 1 - n
+	 - many to many : m - n
++ one entity should has one unique key only unless that unique key has to combine with another to different unique keys to make another one unique
