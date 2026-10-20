@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Methodology/chapter 1.md",
+                "file": "System analyze and design/chapter 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "chapter 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,13 +213,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06dbacda29dd060d",
+  "active": "b8badb28f4f8a4af",
   "lastOpenFiles": [
+    "Research Methodology/chapter 1.md",
+    "System analyze and design/chapter 1.md",
     "README.md",
     "Untitled.md",
-    "System analyze and design/chapter 1.md",
     "Untitled",
-    "Research Methodology/chapter 1.md",
     "System analyze and design",
     "Research Methodology"
   ]
