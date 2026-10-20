@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System analyze and design/chapter 1.md",
+                "file": "System analyze and design/TP/TP-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter 1"
+              "title": "TP-02"
             }
           },
           {
@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 211.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,13 +214,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8badb28f4f8a4af",
+  "active": "cb9c0bd720c6b945",
   "lastOpenFiles": [
+    "System analyze and design/Course/chapter 1.md",
+    "System analyze and design/TP/TP-02.md",
+    "System analyze and design/Course",
+    "System analyze and design/TP",
     "Research Methodology/chapter 1.md",
-    "System analyze and design/chapter 1.md",
     "README.md",
     "Untitled.md",
-    "Untitled",
     "System analyze and design",
     "Research Methodology"
   ]
