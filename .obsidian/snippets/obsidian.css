@@ -1,6 +1,6 @@
 /* Make Mermaid diagrams larger */
 .mermaid svg {
   max-width: none !important;
-  width: 120% !important;
+  width: 99% !important;
   height: auto !important;
 }
