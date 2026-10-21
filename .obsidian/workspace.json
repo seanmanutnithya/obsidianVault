@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Chapter 2.md",
+                "file": "Network/Computer_Assembly_Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2"
+              "title": "Computer_Assembly_Summary"
             }
           },
           {
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3732ca6e82dbaa6c",
@@ -215,10 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb9c0bd720c6b945",
+  "active": "b8badb28f4f8a4af",
   "lastOpenFiles": [
-    "System analyze and design/Course/chapter 1.md",
     "Network/Chapter 2.md",
+    "Network/Computer_Assembly_Summary.md",
+    "System analyze and design/Course/chapter 1.md",
     "Network",
     "Research Methodology/chapter 1.md",
     "System analyze and design/TP/TP-02.md",
