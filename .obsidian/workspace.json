@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System analyze and design/TP/TP-02.md",
-                "mode": "source",
+                "file": "System analyze and design/Course/chapter 1.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TP-02"
+              "title": "chapter 1"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"title\"]",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -195,12 +196,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 286.2999267578125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,10 +214,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb9c0bd720c6b945",
+  "active": "13cef3f35a75206c",
   "lastOpenFiles": [
-    "System analyze and design/Course/chapter 1.md",
     "System analyze and design/TP/TP-02.md",
+    "System analyze and design/Course/chapter 1.md",
     "System analyze and design/Course",
     "System analyze and design/TP",
     "Research Methodology/chapter 1.md",
